@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Acada Learning Releases Nexus Repository</name>
-	      <url>http://172.31.28.242:8000/repository/td-btsp-release/</url>
+	      <url>http://54.209.167.159:8081/repository/paypal-snapshot/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Acada Learning Snapshot Nexus Repository</name>
-	      <url>http://172.31.28.242:8000/repository/td-btsp-snapshot/</url>
+	      <url>http://54.209.167.159:8081/repository/onyi.snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
